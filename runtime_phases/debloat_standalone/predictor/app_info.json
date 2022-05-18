@@ -1,0 +1,8 @@
+{
+    "cat":{
+        "params":"-A,-b,-e,-E,-n,-s,-t,-T,-v",
+        "apis":"__ctype_b_loc,__ctype_get_mb_cur_max,__cxa_atexit,__cxa_finalize,__errno_location,__fpending,__fprintf_chk,__freading,__fxstat,__libc_start_main,__printf_chk,__stack_chk_fail,__uflow,_exit,abort,bindtextdomain,calloc,close,dcgettext,error,exit,fclose,fdopen,fflush,fileno,fputs_unlocked,free,fscanf,fseeko,fwrite,getenv,getopt_long,getpagesize,ioctl,iswprint,lseek,malloc,mbrtowc,mbsinit,memcmp,memcpy,memmove,memset,nl_langinfo,open,posix_fadvise,read,realloc,setlocale,stpcpy,strcmp,strlen,strncmp,strrchr,textdomain,ungetc,write"
+    }
+}
+
+
